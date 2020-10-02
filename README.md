@@ -1,17 +1,22 @@
+## This is a fork
+
+Just a note: This is a fork from [charity/tech-leads-skill-share](https://github.com/charity/tech-leads-skill-share) and while you're welcome to use anything from here, you may want to check the original.
+
+
 # So you want to start a tech leaders study group
 
 Mazel tov! We did this in August of 2017. It was a great experience, and helped a lot of us brainstorm, problem-solve and level up in our careers. A lot of work went into making it the great experience it was. This document is designed to help you bootstrap a group of your own.
 
 ### Mission statement
 
-Leadership is not a spot on the org chart, or a role someone can assign you, or a set of facts you can memorize.  Leadership is a muscle that every one of us has to exercise.  It helps to have a set of peers you can be radically vulnerable with, who you can swap stories and experiences with and hold each other accountable. 
+Leadership is not a spot on the org chart, or a role someone can assign you, or a set of facts you can memorize.  Leadership is a muscle that every one of us has to exercise.  It helps to have a set of peers you can be radically vulnerable with, who you can swap stories and experiences with and hold each other accountable.
 
 The goal of this is not group therapy or support -- though there may be plenty of both -- the goal is to **get better at our jobs** by learning and practicing leadership skills in tech.
 
 ## Checklist
 
 So you want to start a tech leads group.  Here is your list of things to consider, prepare, or do.
-  
+
 - [ ] [**Invitations**](#Invites): Curate a well-balanced group of 6-10 interested people, with varying skill levels, roles, and diverse backgrounds.
 - [ ] [**Logistics**](#Logistics): Set a start date/time and decide on a venue.  Identify at least one facilitator. Create a mailing list or Facebook group for discussion, also make a recurring calendar invite.
 - [ ] [**Preparation**](#Preparation): Establish the ground rules and code of conduct.  Distribute the recurring homework assignment.  Make sure everyone can commit to attending at least 4 of the 6 weeks. Ask everyone to write down an intention: how do they hope to level up in their career via this group?
@@ -20,12 +25,12 @@ So you want to start a tech leads group.  Here is your list of things to conside
 - [ ] [**Last Week**](#Last-Week): wrap up.  Take the pulse of the group: do they want to keep going?  Discuss frequency and invite policy.
 
 ### Invites
-There are lots of things to keep in mind when choosing members. Some of these considerations will conflict with others; it is always a judgment call.  The character of your group will be defined by who you gather, so this is perhaps the most important step of all.  Here is a copy of the [invitation email](https://github.com/charity/tech-leads-skill-share/blob/master/Invitation.md) I sent out, which you are welcome to copy and modify.
+There are lots of things to keep in mind when choosing members. Some of these considerations will conflict with others; it is always a judgment call.  The character of your group will be defined by who you gather, so this is perhaps the most important step of all.  Here is a copy of the [invitation email](https://github.com/averell23/tech-leads-skill-share/blob/master/Invitation.md) I sent out, which you are welcome to copy and modify.
 
 * You are curating a group, not inviting your best buds.
 * Our sweet spot was around eight people (we invited 10 to participate, had 6-9 in attendance each week).  Less than five is not a good discussion.  More than 9 and there isn't enough time for everyone to participate.  If you ever have 10 show up, consider splitting into two random subgroups.
 * Confidentiality and high trustworthiness is absolutely critical. Gossip leaking to third parties would’ve killed our fragile vibe stone dead. We were explicit: if you leak, you get kicked out.
-* Don't invite people who work together.  
+* Don't invite people who work together.
 * Good to have: broad representation across race, age, orientation, gender, seniority, role. This contributed hugely to the richness of our discussions
 * If you want the flavor of your group to be for tech *leaders*, consider making your lower bound something like "senior engineer/tech lead".
 * I find mixed gender groups much more functional than all-women or all-men groups. But try balancing your group so that straight white dudes are a minority.  (It's really good for them!)
@@ -33,13 +38,13 @@ There are lots of things to keep in mind when choosing members. Some of these co
 
 ### Logistics
 
-* We met from 4-5:30pm on Sunday afternoons at my home. A fair amount of thought went into this: 
+* We met from 4-5:30pm on Sunday afternoons at my home. A fair amount of thought went into this:
     * The setting seemed to encourage more intimacy than an office setting,
     * it did not take up a full weekend evening,
     * we didn't have to try and muster up our most relaxed, vulnerable selves at the end of a long work day, and
     * it let out before Game of Thrones started at 6.
 * We initially met for six consecutive weeks, and required everyone to commit to at *least* four of them. This was to create vulnerability and trust and get to know each other better as quickly as possible.
-* Have a facilitator. 
+* Have a facilitator.
     * I started out reluctant to explicitly facilitate, but found it went much better with a firmer hand on the wheel.
 
 ### Preparation
@@ -49,7 +54,7 @@ There are lots of things to keep in mind when choosing members. Some of these co
 * Send around the reading list and resources (see bottom), and your code of conduct.
 * Ask people to get there a few minutes early.  It's really disruptive to have people arrive late.
 * Your facilitator should prep an outline of the 90 minutes, and keep everyone roughly on time.
-* Ask everyone to write down an intention for the next 6 weeks.  How do you want to level up in your career? 
+* Ask everyone to write down an intention for the next 6 weeks.  How do you want to level up in your career?
 * Share the ground rules:
     * Put your phone away (exceptions made for on call or babysitters)
     * Be fully present
@@ -60,7 +65,7 @@ There are lots of things to keep in mind when choosing members. Some of these co
     * Dig deep.  Listen hard.  Don't dominate the conversation.  This is not a social club, let's make the time meaningful and valuable.
 * No booze.  (at least that's how we preferred it)
 
-### Week 1 
+### Week 1
 
 * Sample agenda:
     * 5 min, Facilitator kicks off by welcoming everyone, acknowledging that this is gonna feel hella awkward for the first week or two, talks about the point of the group: this is not therapy, this is because we all want to level up at our careers and support each other in leveling up too.
@@ -74,7 +79,7 @@ There are lots of things to keep in mind when choosing members. Some of these co
 * Send out the topic on Thursday before the Sunday meeting.
 * Encourage everyone to keep it in the back of their minds and jot down any useful stories that come to mind, any questions, any challenges they have now or in the past that relate even loosely to the theme.
 * Facilitator should come up with a loose outline beforehand and keep the meeting on track for 90 minutes total.  Can't make anyone late for game of thrones.
-* Sample agenda 1: 
+* Sample agenda 1:
     * 10 min, homework circle
     * 70 min, facilitated discussion
     * 10 min, closing and wrap-up
@@ -104,14 +109,14 @@ There are lots of things to keep in mind when choosing members. Some of these co
     * At the last meeting, our homework included extra questions: What did I learn? Where do I want to be in a year?
 
 
-    
+
 *  Mid-week checkins?
     * How are things feeling after week 2?  getting less awkward?  Ours still felt spotty, so we decided to randomly pair up and get together once during the week for tea or a cocktail.  This was really instrumental in helping the less-connected people feel closer to the group.
     * We also experimented with accountability buddies.  After the self-care session, each of us set an intention to improve one unit of self-care.  We checked in with our buddy throughout the week to see if having someone check in affected our ability to meet our commitments.
 
 ### Last week
 
-* Leave at least the last 30 minutes to discuss what impact the group has had on each person (~4-5 minutes apiece).  
+* Leave at least the last 30 minutes to discuss what impact the group has had on each person (~4-5 minutes apiece).
 * At the end, discuss whether the group wants to keep going or not, keep requiring homework or not (some folks adopted it as a personal habit after this), or wants the group email list/FB group to live on instead of in-person meetings, etc.  Our group opted to keep going but less frequently; we have settled into a rhythm of around monthly, and the list gets occasionally used for questions.
 * Someone please let me know how it went for you!
 
@@ -141,5 +146,3 @@ There are lots of things to keep in mind when choosing members. Some of these co
 * "[_Radical Candor_](https://www.amazon.com/Radical-Candor-Kim-Scott/dp/B01KTIEFEE/ref=sr_1_1)", by Kim Scott
 * [_TED talk_](https://www.ted.com/talks/atul_gawande_how_do_we_heal_medicine) or "[_The Checklist Manifesto_](https://www.amazon.com/Checklist-Manifesto-How-Things-Right-ebook/dp/B0030V0PEW/ref=sr_1_3)", by Atul Gawande
 * [_Forum_](https://docs.google.com/document/d/11uFP7Ma4r_FMU3VmLdJ-0JafLVlvydNi91vqsAAQTsQ/edit), a peer group developed at Twitter
-
-
